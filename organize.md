@@ -1,4 +1,4 @@
-# Course Outline
+# Course Outline  (ONLY FOR THE AUTHOR)
 
 ## Modules
 - **Module 2 (FALL 24):** Intro to OOP (WEEK 5 S24)
