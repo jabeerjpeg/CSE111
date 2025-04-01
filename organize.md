@@ -34,7 +34,7 @@
   - S24: 7
   - F24: 3,4,5 (+2 sort of)
 - **Static Variable & Static Method, Encapsulation**
-  - S24: 7
+  - S24: 7 + 8 (mostly)
   - F24: 6
 - **Inheritance & Method Overriding**
   - S24: 9
