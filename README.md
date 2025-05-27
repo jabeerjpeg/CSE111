@@ -1,4 +1,4 @@
-# CSE110
+# CSE111
 ## CSE111: PROGRAMMING LANGUAGE II
 ## BRAC University - Spring 2025
 
@@ -8,7 +8,7 @@ This course would be an introduction to **data structures, formal specification 
 
 ## 📂 Resources and Assignments
 ### Find Assignment Solutions
-- **Fall 2024 Solutions:** [Link to Repository](https://github.com/jabeerjpeg/CSE111)
+- **Spring 2025 Solutions:** [Link to Repository](https://github.com/jabeerjpeg/CSE111)
 
 ## 📝 Message from the Repository Owner
 
@@ -34,7 +34,7 @@ Thank you for your dedication and commitment to excellence.
 
 ## 📢 Repository Updates
 
-This repository will no longer be updated after the conclusion of the Fall 2024 semester.  
+This repository will no longer be updated after the conclusion of the Spring 2025 semester.  
 **Date of Discontinuation:** 27/05/2025
 
 Thank you for being a part of this journey. Best of luck in your programming endeavors!
