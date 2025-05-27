@@ -1,4 +1,4 @@
-It contains useful links for tracing, which is considered the most difficult part of this course.
+## It contains useful links for tracing, which is considered the most difficult part of this course.
 
 [Inheritance tracing.mp4](https://drive.google.com/file/d/1jXqCX5_5Qj8XLNiWlEBW9Fc1GwBItOzI/view?usp=drivesdk)
 
