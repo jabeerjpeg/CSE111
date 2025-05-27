@@ -1,3 +1,5 @@
+It contains useful links for tracing, which is considered the most difficult part of this course.
+
 [Inheritance tracing.mp4](https://drive.google.com/file/d/1jXqCX5_5Qj8XLNiWlEBW9Fc1GwBItOzI/view?usp=drivesdk)
 
 [JAVA Inheritance Tracing solution by Samir](https://youtu.be/Yt_EnFHHkRU?feature=shared)
