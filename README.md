@@ -1,5 +1,5 @@
 # CSE111
-## CSE111: PROGRAMMING LANGUAGE II
+## PROGRAMMING LANGUAGE II
 ## BRAC University - Spring 2025
 
 Welcome to the GitHub repository for **CSE111: PROGRAMMING LANGUAGE II**, offered at **BRAC University** during the **Spring 2025** semester.
